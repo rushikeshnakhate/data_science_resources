@@ -150,3 +150,6 @@ To the extent possible under law, [David Yakobovitch](http://davidyakobovitch.co
 
 
 PythonBDD - https://readthedocs.org/projects/behave/downloads/pdf/stable/
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://livebook.manning.com/book/machine-learning-in-action/chapter-1/"><b>K Nearest Neighbour Book</b></a><br>
+
+
